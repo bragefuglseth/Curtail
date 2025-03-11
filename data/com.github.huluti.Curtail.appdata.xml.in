@@ -20,7 +20,7 @@
   <url type="bugtracker">https://github.com/Huluti/Curtail/issues</url>
   <url type="vcs-browser">https://github.com/Huluti/Curtail</url>
   <url type="donation">https://liberapay.com/hugoposnic</url>
-  <url type="translate">https://github.com/Huluti/Curtail/tree/master/po</url>
+  <url type="translate">https://github.com/Huluti/Curtail/blob/master/data/com.github.huluti.Curtail.appdata.xml.in#L23C1-L23C79</url>
   <kudos>
     <kudo>ModernToolkit</kudo>
   </kudos>
